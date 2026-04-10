@@ -16,10 +16,10 @@
 | Name | Role | Claude Access | Computer |
 |------|------|--------------|----------|
 | Hannah Athena Estrera | **Leader** | Subscription | Mac |
-| Rome Nicolas | | Subscription | Mac |
-| Mark Jayson Agao | | Experienced | Windows |
-| Michael Ian Rule | | Learning | Mac |
-| Earl Ceniza | | Learning | Windows |
+| Rome Nicolas |  | Subscription | Mac |
+| Mark Jayson Agao |  | Experienced | Windows |
+| Michael Ian Rule |  | Learning | Mac |
+| Earl Ceniza |  | Learning | Windows |
 
 **Pod Leader: Hannah Athena Estrera** - keeps the team moving, calls votes when stuck, makes sure everyone has a role.
 
@@ -52,7 +52,7 @@ If you're using Claude Code, just say: *"push my work to our pod repo"* and it h
 
 ## Resources
 
-- **Main workshop hub** (guides, prompts, all tools) - https://github.com/arc-web/stellarph-claude-workshop
+- **Main workshop hub** - https://github.com/arc-web/stellarph-claude-workshop
 - **All tools for today** - https://github.com/arc-web/stellarph-claude-workshop/blob/main/guides/tools.md
 - **Discord - Pod F channel** - https://discord.gg/g2pJzjmV
 - **Your build notes** - [notes.md](notes.md)

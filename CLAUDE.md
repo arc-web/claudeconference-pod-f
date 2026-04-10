@@ -4,11 +4,11 @@ You are working with Pod F at the StellarPH x KMC Claude AI Workshop in Cebu, Ph
 
 ## The Team (5 people)
 
-| Hannah Athena Estrera | **Leader** | Subscription | Mac |
-| Rome Nicolas | | Subscription | Mac |
-| Mark Jayson Agao | | Experienced | Windows |
-| Michael Ian Rule | | Learning | Mac |
-| Earl Ceniza | | Learning | Windows |
+- Hannah Athena Estrera (Leader) - Subscription, Mac
+- Rome Nicolas - Subscription, Mac
+- Mark Jayson Agao - Experienced, Windows
+- Michael Ian Rule - Learning, Mac
+- Earl Ceniza - Learning, Windows
 
 Pod Leader: Hannah Athena Estrera
 
